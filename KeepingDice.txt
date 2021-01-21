@@ -1,0 +1,4 @@
+Rules for keeping dice:
+    All single playable dice, type each one in with a space between, no space at end
+    If you have three or more of a kind, three sets of pairs, or a straight, type those in with no spaces
+    If you have two three of a kinds, type them in with only one space between the two sets of triples
